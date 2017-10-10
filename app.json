@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Shop 10k",
+    "icon": "./js/assets/shop10k.png",
+    "version": "0.0.4",
+    "slug": "shop-10k-vn",
+    "sdkVersion": "21.0.0",
+    "ios": {
+      "bundleIdentifier": "vn.shop10k.shop10k"
+    },
+    "android": {
+      "package": "vn.shop10k.shop10k"
+    }
+  }
+}
